@@ -1,4 +1,6 @@
 # Parsing Untrusted File Formats Safely
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpuffs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpuffs?ref=badge_shield)
+
 
 Puffs is a domain-specific language and library for parsing untrusted file
 formats safely. Examples of such file formats include images, audio, video,
@@ -333,6 +335,9 @@ proposals and reach consensus before sending your first PR.
 
 Apache 2. See the LICENSE file for details.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fpuffs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fpuffs?ref=badge_large)
 
 # Disclaimer
 
